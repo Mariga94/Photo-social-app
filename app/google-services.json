@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163296876049",
+    "firebase_url": "https://instagramandroid-f9b80.firebaseio.com",
+    "project_id": "instagramandroid-f9b80",
+    "storage_bucket": "instagramandroid-f9b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163296876049:android:fa2763d469f574437443b0",
+        "android_client_info": {
+          "package_name": "com.example.thegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163296876049-nbb72vrama0lt32dfurpj02d58rdnero.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByF4U7Nfq4waBZ93nJmZidROg4cpnvbl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163296876049-nbb72vrama0lt32dfurpj02d58rdnero.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
